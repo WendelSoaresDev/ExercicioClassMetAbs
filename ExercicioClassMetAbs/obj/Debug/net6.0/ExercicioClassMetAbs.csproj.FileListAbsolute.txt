@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ExercicioClassMetAbs.exe
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ExercicioClassMetAbs.deps.json
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ExercicioClassMetAbs.runtimeconfig.json
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ExercicioClassMetAbs.dll
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ref\ExercicioClassMetAbs.dll
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\bin\Debug\net6.0\ExercicioClassMetAbs.pdb
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.AssemblyInfo.cs
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.dll
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ref\ExercicioClassMetAbs.dll
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.pdb
+C:\Temp\ws-vs2021\ExercicioClassMetAbs\ExercicioClassMetAbs\obj\Debug\net6.0\ExercicioClassMetAbs.genruntimeconfig.cache
